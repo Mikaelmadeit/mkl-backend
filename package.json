@@ -1,0 +1,12 @@
+{
+  "name": "mikaelmadeit-backend",
+  "version": "1.0.0",
+  "description": "Beat store backend — PayPal verification, PDF contracts, email delivery",
+  "dependencies": {
+    "pdfkit": "^0.14.0",
+    "resend": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
